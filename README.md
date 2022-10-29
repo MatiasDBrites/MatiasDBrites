@@ -1,6 +1,6 @@
 ### ¡Hola! Soy Matias D Brites 👋
 
-Soy un desarrollador Full-stack web junior de Mar del Plata /Argentina pero ya hace mas de 10 años que vivo en Cancun (Ciudad de Quintana Roo/Mexico). Me gusta crear aplicaciones web rápidas con [React](https://es.reactjs.org/) / [ExpressJS](https://expressjs.com/es/) / [Dockers](https://www.docker.com/), fáciles de usar y construidas con las mejores prácticas que aprendi en el bootcamp que realice en 2022 en [LarnU](https://www.larnu.com/bootcamp).
+Soy un desarrollador Full-stack web junior de Mar del Plata /Argentina pero ya hace mas de 10 años que vivo en Cancun (Estado de Quintana Roo/Mexico). Me gusta crear aplicaciones web rápidas con [React](https://es.reactjs.org/) / [ExpressJS](https://expressjs.com/es/) / [Dockers](https://www.docker.com/), fáciles de usar y construidas con las mejores prácticas que aprendi en el bootcamp que realice en 2022 en [LarnU](https://www.larnu.com/bootcamp).
 Tambien tengo experiencia en Diseño UX gracias a Google y INROADS MEXICO.
 
 <!-- ## Puedes encontrarme en: -->
