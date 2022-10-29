@@ -1,6 +1,6 @@
 ### ¡Hola! Soy Matias D Brites 👋
 
-Soy un desarrollador Full-stack web junior de Mar del Plata /Argentina pero ya hace mas de 10 años que vivo en Cancun (Ciudad de Quintana Roo/Mexico). Me gusta crear aplicaciones web rápidas con [React](https://es.reactjs.org/) / [ExpressJS]([https://expressjs.com/es/]), fáciles de usar y construidas con las mejores prácticas.
+Soy un desarrollador Full-stack web junior de Mar del Plata /Argentina pero ya hace mas de 10 años que vivo en Cancun (Ciudad de Quintana Roo/Mexico). Me gusta crear aplicaciones web rápidas con [React](https://es.reactjs.org/) / [ExpressJS](https://expressjs.com/es/), fáciles de usar y construidas con las mejores prácticas.
 Tambien tengo experiencia en Diseño UX.
 
 ## Puedes encontrarme en:
