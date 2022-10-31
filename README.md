@@ -5,11 +5,7 @@
 Soy un desarrollador Full-stack web junior de Mar del Plata /Argentina pero ya hace mas de 10 años que vivo en Cancun (Estado de Quintana Roo/Mexico). Me gusta crear aplicaciones web rápidas con P.E.R.N    [PostgreSQL](https://www.postgresql.org/) / [ExpressJS](https://expressjs.com/es/) / [React](https://es.reactjs.org/) / [NodeJS](https://nodejs.org/en/), fáciles de usar y construidas con las mejores prácticas que aprendi en el bootcamp que realice en 2022 en [LarnU](https://www.larnu.com/bootcamp).
 Tambien tengo experiencia en Diseño UX gracias a Google y INROADS MEXICO.
 
-[Portafolio](https://proyecto-final-react-mdb.vercel.app/) 
-
-[Linkedin](https://www.linkedin.com/in/matias-d-brites-9b0251a3/)
-
-[Gmail](mailto:matias.brites@gmail.com)
+[Portafolio](https://proyecto-final-react-mdb.vercel.app/) / [Linkedin](https://www.linkedin.com/in/matias-d-brites-9b0251a3/) / [Gmail](mailto:matias.brites@gmail.com)
 
 
 
