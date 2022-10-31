@@ -7,7 +7,7 @@ Tambien tengo experiencia en Diseño UX gracias a Google y INROADS MEXICO.
 
 [Portafolio](https://proyecto-final-react-mdb.vercel.app/) / [Linkedin](https://www.linkedin.com/in/matias-d-brites-9b0251a3/) / [Gmail](mailto:matias.brites@gmail.com)
 
-[[![cubo3front.gif](https://i.postimg.cc/PqnNwrG0/cubo3front.gif)](https://postimg.cc/sMKVFzgJ)](https://postimg.cc/delete/SHkj7Y8s/f164bb78)
+[![cubo3front.gif](https://i.postimg.cc/MHBpThPz/cubo3front.gif)](https://postimg.cc/N2gcCPvn)
 
 
 
