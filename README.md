@@ -21,7 +21,7 @@ Otros:
 • Metodologias Agiles
 
 
-[Portafolio](https://proyecto-final-react-mdb.vercel.app/) / [Linkedin](https://www.linkedin.com/in/matias-d-brites-9b0251a3/) / [Gmail](mailto:matias.brites@gmail.com)
+[Portafolio](https://proyecto-final-react-mdb.vercel.app/) / [Linkedin](https://www.linkedin.com/in/matias-d-brites-9b0251a3/) / [Gmail](mailto:matias.brites@gmail.com) / [Cv](https://matiasdbrites.github.io/cv_mdb/)
 
 [![sliderfront.gif](https://i.postimg.cc/3xf5st11/sliderfront.gif)](https://postimg.cc/75zW7MpJ)
 
