@@ -18,6 +18,7 @@ Otros:
 • PostgreSql
 • Git / GitHub
 • Docker
+• Metodologias Agiles
 
 
 [Portafolio](https://proyecto-final-react-mdb.vercel.app/) / [Linkedin](https://www.linkedin.com/in/matias-d-brites-9b0251a3/) / [Gmail](mailto:matias.brites@gmail.com)
