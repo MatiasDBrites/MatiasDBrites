@@ -16,6 +16,8 @@ Front-end:
 * Html. CSS, Javascript
 * Testing con CI/CD (Jest, React testing)
 * Material UI
+* Sass
+* Bootstrap
 
 Otros:
 * PostgreSql
@@ -25,6 +27,7 @@ Otros:
 * Figma
 * Metodologias Agiles
 * NPM
+* Eslint
 
 
 [Portafolio](https://proyecto-final-react-mdb.vercel.app/) / [Linkedin](https://www.linkedin.com/in/matias-d-brites-9b0251a3/) / [Gmail](mailto:matias.brites@gmail.com) / [Cv](https://matiasdbrites.github.io/cv_mdb/)
