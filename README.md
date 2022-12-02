@@ -6,20 +6,25 @@ Soy un desarrollador Full-stack Web JR de Mar del Plata / Argentina pero ya hace
 Tambien tengo experiencia en Diseño UX gracias a Google y INROADS MEXICO.
 
 Back-end:
-• JavaScript (Express.js, Node.js)
-• Testing con CI/CD (Supertest, mocha).
+* ExpressJS
+* NodeJs
+* Sequelize
+* Testing con CI/CD (Supertest, mocha).
 
 Front-end:
-• React 
-• Html. CSS, Javascript
-• Testing con CI/CD (Jest, React)
+* React 
+* Html. CSS, Javascript
+* Testing con CI/CD (Jest, React testing)
+* Material UI
 
 Otros:
-• PostgreSql
-• Git / GitHub
-• Docker
-* Sequelize
-• Metodologias Agiles
+* PostgreSql
+* Git / GitHub
+* Docker
+* Xd
+* Figma
+* Metodologias Agiles
+* NPM
 
 
 [Portafolio](https://proyecto-final-react-mdb.vercel.app/) / [Linkedin](https://www.linkedin.com/in/matias-d-brites-9b0251a3/) / [Gmail](mailto:matias.brites@gmail.com) / [Cv](https://matiasdbrites.github.io/cv_mdb/)
