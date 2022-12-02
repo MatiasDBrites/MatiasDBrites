@@ -18,6 +18,7 @@ Otros:
 • PostgreSql
 • Git / GitHub
 • Docker
+* Sequelize
 • Metodologias Agiles
 
 
