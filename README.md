@@ -6,6 +6,7 @@ Soy un desarrollador Full-stack Web JR de Mar del Plata / Argentina pero ya hace
 Tambien tengo experiencia en Diseño UX gracias a Google y INROADS MEXICO.
 
 Back-end:
+* PostgreSql
 * ExpressJS
 * NodeJs
 * Sequelize
@@ -20,7 +21,6 @@ Front-end:
 * Bootstrap
 
 Otros:
-* PostgreSql
 * Git / GitHub
 * Docker
 * Xd
