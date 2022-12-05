@@ -25,7 +25,7 @@ Otros:
 * Docker
 * Xd
 * Figma
-* Metodologias Agiles
+* Metodologias Agile, Waterfall, Lean and Six Sigma
 * NPM
 * Eslint
 * Firebase
