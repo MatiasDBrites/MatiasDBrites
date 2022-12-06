@@ -23,10 +23,8 @@ Front-end:
 Otros:
 * Git / GitHub
 * Docker
-* Xd
-* Figma
+* Xd, Figma
 * Metodologias Agile, Waterfall, Lean and Six Sigma
-* NPM
 * Eslint
 * Firebase
 
