@@ -23,10 +23,16 @@ Front-end:
 Otros:
 * Git / GitHub
 * Docker
-* Xd, Figma
 * Metodologias Agile, Waterfall, Lean and Six Sigma
 * Eslint
 * Firebase
+
+Diseño UX
+* XD Adobe, Figma
+
+Project Management
+* Asuna, Trello, Basecamp, Project Libre, Monday, ClipUp, Jira and Microsoft Project
+* Estatuto
 
 
 [Portafolio](https://proyecto-final-react-mdb.vercel.app/) / [Linkedin](https://www.linkedin.com/in/matias-d-brites-9b0251a3/) / [Gmail](mailto:matias.brites@gmail.com) / [Cv](https://matiasdbrites.github.io/cv_mdb/)
