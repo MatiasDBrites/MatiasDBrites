@@ -15,6 +15,7 @@ Back-end:
 Front-end:
 * React 
 * Html. CSS, Javascript
+* Typescript
 * Testing con CI/CD (Jest, React testing)
 * Material UI
 * Sass
