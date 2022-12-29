@@ -32,7 +32,7 @@ Diseño UX
 * XD Adobe, Figma
 
 Project Management
-* Asuna, Trello, Basecamp, Project Libre, Monday, ClipUp, Jira and Microsoft Project
+* Asuna, Trello, Basecamp, Project Libre, Monday, ClipUp, Jira, Microsoft Project and Stacks
 * Estatuto
 
 
