@@ -33,7 +33,7 @@ Diseño UX
 
 Project Management
 * Asuna, Trello, Basecamp, Project Libre, Monday, ClipUp, Jira, Microsoft Project and Stacks
-* Estatuto, Estructura de desglose del trabajo (WBS), Diagrama de Gantt, Presupuesto.
+* Estatuto, Estructura de desglose del trabajo (WBS), Diagrama de Gantt, Presupuesto, NDAs, RFPs, SoWs.
 
 
 [Portafolio](https://proyecto-final-react-mdb.vercel.app/) / [Linkedin](https://www.linkedin.com/in/matias-d-brites-9b0251a3/) / [Gmail](mailto:matias.brites@gmail.com) / [Cv](https://matiasdbrites.github.io/cv_mdb/)
