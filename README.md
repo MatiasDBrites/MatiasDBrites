@@ -35,6 +35,7 @@ Project Management
 * Asuna, Trello, Basecamp, Project Libre, Monday, ClipUp, Jira, Microsoft Project and Stacks
 * Estatuto, Estructura de desglose del trabajo (WBS), Diagrama de Gantt, Presupuesto, NDAs, RFPs, SoWs, Plan de riesgos e mitigacion y Plan de comunicacion.
 * Informe de estado del proyecto, Analisis de ROAM, Gestion de calidad y mejora continua, Toma de dicisiones basadas en datos.
+* Habilidades de liderazgo e influencia, Comunicación eficaz del proyecto y Cerrar un proyecto. 
 
 
 [Portafolio](https://proyecto-final-react-mdb.vercel.app/) / [Linkedin](https://www.linkedin.com/in/matias-d-brites-9b0251a3/) / [Gmail](mailto:matias.brites@gmail.com) / [Cv](https://matiasdbrites.github.io/cv_mdb/)
