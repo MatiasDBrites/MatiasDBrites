@@ -29,6 +29,14 @@ Otros:
 * Firebase
 
 Diseño UX
+* Introducción al diseño de la experiencia del usuario, Familiarizarse con términos, herramientas y frameworks comunes en el diseño de UX,
+Participar en sprints de diseño y Desarrollo de una presencia profesional.
+* Integrar la investigación en el proceso de diseño, Empatizar con los usuarios y definir los puntos débiles, Creación de historias de usuario y mapas de recorrido del usuario, Definición de problemas de usuario y Idear soluciones de diseño.
+* Guiones gráficos y creación de esquemas de página, Creación de esquemas de página en papel y digitales, Construcción de prototipos de baja fidelidad.
+* Planificación de estudios de investigación en UX, Investigación con estudios de usabilidad, Analizar y sintetizar los resultados de la investigación y Compartir las conclusiones de la investigación para el desarrollo de mejores diseños.
+* Comenzar a crear maquetas, Aplicar los principios del diseño visual a las maquetas, Exploración de sistemas de diseño, Participar en sesiones de crítica de diseño, Creación de prototipos de alta fidelidad y Probar diseños e iterar para mejorarlos.
+* Primeros pasos en el proceso de diseño de UX: empatizar y definir, Seguir el proceso de diseño de UX: Idear, Crear esquemas de página para un sitio web adaptable, Crear y probar prototipos de baja fidelidad, Crear y probar diseños de alta fidelidad, Documentar el trabajo de diseño y buscar empleo.
+* Primeros pasos en el proceso de diseño de UX: empatizar, definir e idear, Creación de esquemas de página y prototipos de baja fidelidad, Creación de maquetas y prototipos de alta fidelidad, Diseño de un sitio web adaptable complementario y Encontrar un trabajo de UX.
 * XD Adobe, Figma
 
 Project Management
