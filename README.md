@@ -27,6 +27,7 @@ Otros:
 * Metodologias Agile, Waterfall, Lean and Six Sigma
 * Eslint
 * Firebase
+* XD Adobe, Figma
 
 Diseño UX
 * Introducción al diseño de la experiencia del usuario, Familiarizarse con términos, herramientas y frameworks comunes en el diseño de UX,
@@ -37,7 +38,6 @@ Participar en sprints de diseño y Desarrollo de una presencia profesional.
 * Comenzar a crear maquetas, Aplicar los principios del diseño visual a las maquetas, Exploración de sistemas de diseño, Participar en sesiones de crítica de diseño, Creación de prototipos de alta fidelidad y Probar diseños e iterar para mejorarlos.
 * Primeros pasos en el proceso de diseño de UX: empatizar y definir, Seguir el proceso de diseño de UX: Idear, Crear esquemas de página para un sitio web adaptable, Crear y probar prototipos de baja fidelidad, Crear y probar diseños de alta fidelidad, Documentar el trabajo de diseño y buscar empleo.
 * Primeros pasos en el proceso de diseño de UX: empatizar, definir e idear, Creación de esquemas de página y prototipos de baja fidelidad, Creación de maquetas y prototipos de alta fidelidad, Diseño de un sitio web adaptable complementario y Encontrar un trabajo de UX.
-* XD Adobe, Figma
 
 Project Management
 * Asuna, Trello, Basecamp, Project Libre, Monday, ClipUp, Jira, Microsoft Project and Stacks
