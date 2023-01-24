@@ -44,23 +44,12 @@ Project Management
 * Estatuto, Estructura de desglose del trabajo (WBS), Diagrama de Gantt, Presupuesto, NDAs, RFPs, SoWs, Plan de riesgos e mitigacion y Plan de comunicacion.
 * Informe de estado del proyecto, Analisis de ROAM, Gestion de calidad y mejora continua, Toma de dicisiones basadas en datos.
 * Habilidades de liderazgo e influencia, Comunicación eficaz del proyecto y Cerrar un proyecto. 
-
+* Los aspectos básicos de la metodología Agile, Scrum 101, Implementación de Scrum y Aplicar la metodología Agile en la organización.
 
 [Portafolio](https://proyecto-final-react-mdb.vercel.app/) / [Linkedin](https://www.linkedin.com/in/matias-d-brites-9b0251a3/) / [Gmail](mailto:matias.brites@gmail.com) / [Cv](https://matiasdbrites.github.io/cv_mdb/)
 
 
 
-
-
-<!-- ## Puedes encontrarme en: -->
-
-<!-- - Web personal [alextomas.com](https://alextomas.com)
-- [LinkedIn](https://www.linkedin.com/in/alex-tomas/)
-- [Medium](https://alextomash.medium.com/)
-- [Dev.to](https://dev.to/alextomas80/)
-- [Instagram](https://www.instagram.com/alextomas/)
- -->
-<!--
 **MatiasDBrites/MatiasDBrites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
