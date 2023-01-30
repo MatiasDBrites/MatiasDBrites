@@ -1,7 +1,5 @@
 ### ¡Hola! Soy Matias D Brites 👋
 
-[![Pug-Saluda.gif](https://i.postimg.cc/90N3ZXNZ/Pug-Saluda.gif)](https://postimg.cc/m1M6G44g)
-
 Soy un desarrollador Full-stack Developer JR de Mar del Plata / Argentina pero ya hace mas de 10 años que vivo en Cancun (Estado de Quintana Roo/Mexico). Me gusta crear aplicaciones web rápidas con P.E.R.N    [PostgreSQL](https://www.postgresql.org/) / [ExpressJS](https://expressjs.com/es/) / [React](https://es.reactjs.org/) / [NodeJS](https://nodejs.org/en/), fáciles de usar y construidas con las mejores prácticas que aprendi en el bootcamp que realice en 2022 en [LarnU](https://www.larnu.com/bootcamp).
 Tambien tengo experiencia en Diseño UX gracias a Google y INROADS MEXICO. Actualmente estoy haciendo el Curso de Project management de Google en la plataforma Coursera.
 
