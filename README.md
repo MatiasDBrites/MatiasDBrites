@@ -23,7 +23,6 @@ Otros:
 * Git / GitHub
 * Docker
 * Metodologias Agile
-* Eslint
 * Firebase
 * XD Adobe, Figma
 
